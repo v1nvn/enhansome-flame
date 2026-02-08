@@ -86,7 +86,7 @@
             "last_commit": "2025-03-16T15:35:00Z",
             "owner": "lucasnlm",
             "repo": "antimine-flutter",
-            "stars": 14
+            "stars": 15
           }
         },
         {
@@ -330,10 +330,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:14:31.301Z",
+    "last_updated": "2026-02-08T04:26:30.577Z",
     "original_repository": "flame-engine/awesome-flame",
     "source_repository": "v1nvn/enhansome-flame",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Flame with stars"
   }
 }
