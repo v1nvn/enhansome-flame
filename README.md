@@ -98,7 +98,7 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,401 | 🐛 120 | 🌐 Dart | 📅 2026-02-08 - First-party plugins included in Flame's monorepo.
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,406 | 🐛 120 | 🌐 Dart | 📅 2026-02-08 - First-party plugins included in Flame's monorepo.
 * [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,430 | 🐛 8 | 🌐 Dart | 📅 2026-02-07 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 52 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
@@ -131,7 +131,7 @@
 
 <!--lint ignore double-link-->
 
-* [Dino Run](https://github.com/ufrshubham/dino_run) ⭐ 248 | 🐛 1 | 🌐 Dart | 📅 2025-10-12 - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage][1].
+* [Dino Run](https://github.com/ufrshubham/dino_run) ⭐ 247 | 🐛 1 | 🌐 Dart | 📅 2025-10-12 - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage][1].
 
 * [BGUG](https://github.com/fireslime/bgug) ⭐ 96 | 🐛 0 | 🌐 Dart | 📅 2020-07-27 - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
 
@@ -143,7 +143,7 @@
 
 #### RPG
 
-* [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) ⭐ 459 | 🐛 1 | 🌐 Dart | 📅 2025-01-12 - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+* [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) ⭐ 458 | 🐛 1 | 🌐 Dart | 📅 2025-01-12 - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
 ### App Releases
 
