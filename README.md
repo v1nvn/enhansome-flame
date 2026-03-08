@@ -98,8 +98,8 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,424 | 🐛 124 | 🌐 Dart | 📅 2026-02-20 - First-party plugins included in Flame's monorepo.
-* [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,429 | 🐛 8 | 🌐 Dart | 📅 2026-02-07 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,459 | 🐛 85 | 🌐 Dart | 📅 2026-03-08 - First-party plugins included in Flame's monorepo.
+* [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,432 | 🐛 8 | 🌐 Dart | 📅 2026-02-07 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 52 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
 
@@ -111,15 +111,15 @@
 
 <!--lint ignore double-link-->
 
-* [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) ⭐ 262 | 🐛 0 | 🌐 Dart | 📅 2020-07-10 - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
+* [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) ⭐ 261 | 🐛 0 | 🌐 Dart | 📅 2020-07-10 - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
 * [New Super Jumper](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) ⭐ 174 | 🐛 2 | 🌐 Dart | 📅 2025-02-22 - A doodle jump clone made with Flame and Forge2D. By [Yayocode][2].
-* [Spacescape](https://github.com/ufrshubham/spacescape) ⭐ 134 | 🐛 1 | 🌐 Dart | 📅 2025-10-12 - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage][1].
+* [Spacescape](https://github.com/ufrshubham/spacescape) ⭐ 135 | 🐛 1 | 🌐 Dart | 📅 2025-10-12 - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage][1].
 * [Snaake!](https://github.com/lucasnlm/snaake-flutter) ⭐ 82 | 🐛 1 | 🌐 Dart | 📅 2020-10-10 - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
 * [Bob Box](https://github.com/fireslime/bounce_box) ⭐ 43 | 🐛 0 | 🌐 Dart | 📅 2020-02-04 - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
 * [Square Shooter](https://github.com/namzug16/squareshooter_flame) ⭐ 39 | 🐛 1 | 🌐 Dart | 📅 2025-07-08 - A simple 2D top-down shooter for the web. Play solo vs AI or sit back and let the AI battle its own. By [Namzug](https://namzug.dev/).
-* [Ant Squash](https://github.com/sourabhgupta811/Ant-Squash) ⭐ 23 | 🐛 0 | 🌐 Dart | 📅 2024-02-16 - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
+* [Ant Squash](https://github.com/sourabhgupta811/Ant-Squash) ⭐ 24 | 🐛 0 | 🌐 Dart | 📅 2024-02-16 - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
+* [Antimine - Minesweeper](https://github.com/lucasnlm/antimine-flutter) ⭐ 16 | 🐛 4 | 🌐 Dart | 📅 2025-03-16 - Antimine is a minesweeper-like puzzle game. The objective is to flag the spaces with mines to make the field a safer place without exploding any of them. Get it on [Google Play](https://play.google.com/store/apps/details?id=com.logical.minato). By [lucasnlm](https://github.com/lucasnlm).
 * [Color Mixer](https://github.com/androideen/color_mixer_flame) ⭐ 15 | 🐛 0 | 🌐 Dart | 📅 2021-04-09 - A color mixer game built with Flame 1.0.0-rc8. Tap 2 colors to mix them and help player pass obstacles.
-* [Antimine - Minesweeper](https://github.com/lucasnlm/antimine-flutter) ⭐ 14 | 🐛 4 | 🌐 Dart | 📅 2025-03-16 - Antimine is a minesweeper-like puzzle game. The objective is to flag the spaces with mines to make the field a safer place without exploding any of them. Get it on [Google Play](https://play.google.com/store/apps/details?id=com.logical.minato). By [lucasnlm](https://github.com/lucasnlm).
 * [Sober Driver](https://github.com/maurovanetti/guidi-tu) ⭐ 8 | 🐛 0 | 🌐 Dart | 📅 2025-08-05 - An app with 10 mini games to designate a sober driver for a night out. Get it on [Google Play](https://play.google.com/store/apps/details?id=net.coopalice.guiditu), [App Store](https://apps.apple.com/it/app/guidi-tu/id6476491805). By [Mauro Vanetti](https://maurovanetti.info/).
 * [Flappy Dash](https://github.com/RutvikPanchal246/FlappyDash) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2024-09-15  - Gives classic flappy bird game play experience. Get it on [Play Store](https://play.google.com/store/apps/details?id=games.pocket.flappydash.flappy_dash). By [Rutvik Panchal](https://twitter.com/rutvikpanchal_x)
 
@@ -131,15 +131,15 @@
 
 <!--lint ignore double-link-->
 
-* [Dino Run](https://github.com/ufrshubham/dino_run) ⭐ 246 | 🐛 1 | 🌐 Dart | 📅 2025-10-12 - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage][1].
+* [Dino Run](https://github.com/ufrshubham/dino_run) ⭐ 247 | 🐛 1 | 🌐 Dart | 📅 2025-10-12 - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage][1].
 
 * [BGUG](https://github.com/fireslime/bgug) ⭐ 96 | 🐛 0 | 🌐 Dart | 📅 2020-07-27 - Break Guns Using Gems is a fast paced side-scrolling platformer with innovative controls and and a gun-related twist. By [FireSlime](https://fireslime.xyz)
 
 #### Platformer
 
-* [Flutters](https://github.com/ecklf/flutters) ⭐ 242 | 🐛 0 | 🌐 Dart | 📅 2022-03-11 - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
+* [Flutters](https://github.com/ecklf/flutters) ⭐ 241 | 🐛 0 | 🌐 Dart | 📅 2022-03-11 - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
 
-* [Simple Platformer](https://github.com/ufrshubham/flame_simple_platformer) ⭐ 63 | 🐛 0 | 🌐 Dart | 📅 2025-11-21 - A 2D platformer made using Flame engine. By [DevKage][1].
+* [Simple Platformer](https://github.com/ufrshubham/flame_simple_platformer) ⭐ 64 | 🐛 0 | 🌐 Dart | 📅 2025-11-21 - A 2D platformer made using Flame engine. By [DevKage][1].
 
 #### RPG
 
@@ -212,7 +212,7 @@
 
 * Cosmic Merge - [Android](https://play.google.com/store/apps/details?id=es.antonborri.merge_game), [iOS](https://apps.apple.com/app/cosmic-merge/id6471924647) - Merge Planets, Moons and more with the goal to reach galaxies far away or possibly even further? By [ABausG](https://twitter.com/abausg)
 
-* Save The Potato [source-code](https://github.com/imaNNeo/save_the_potato) ⭐ 40 | 🐛 3 | 🌐 Dart | 📅 2025-08-03 - 🥇 Winner of [Flame Game Jam 3.0](https://itch.io/jam/flame-jam-3/results) - Rotate the shields and save the potato from incoming orbs! By [imaNNeo](https://imanneo.dev). [for Android or iOS](http://savethepotato.com)
+* Save The Potato [source-code](https://github.com/imaNNeo/save_the_potato) ⭐ 40 | 🐛 3 | 🌐 Dart | 📅 2026-03-05 - 🥇 Winner of [Flame Game Jam 3.0](https://itch.io/jam/flame-jam-3/results) - Rotate the shields and save the potato from incoming orbs! By [imaNNeo](https://imanneo.dev). [for Android or iOS](http://savethepotato.com)
 
 * CircleCapture [Android](https://play.google.com/store/apps/details?id=com.marioiannotta.cc) [iOS](https://apps.apple.com/us/app/circlecapture/id6747576924) - Tap and drag to draw circles that capture floating particles. By [MarioIannotta](http://github.com/marioIannotta/)
 
@@ -242,7 +242,7 @@
 
 <!--lint ignore double-link-->
 
-* Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub](https://github.com/Shadow60539/club_penguin_game) ⭐ 119 | 🐛 0 | 🌐 Dart | 📅 2023-04-23 - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
+* Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub](https://github.com/Shadow60539/club_penguin_game) ⭐ 120 | 🐛 0 | 🌐 Dart | 📅 2023-04-23 - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
 
 #### Puzzle Games
 
@@ -260,6 +260,10 @@
 * [Mine Cart Operator](https://cherrybit.itch.io/mine-cart-operator) - Mine cart operator is dekstop puzzle game for Windows, Mac and Linux. By [CherryBit Studios](https://cherrybit.studio/)
 
 * Jigsaw Puzzles - [Android](https://play.google.com/store/apps/details?id=jigsaw.puzzle.game), [iOS](https://apps.apple.com/us/app/jigsaw-puzzles-puzzle-play/id6469541260) - Relaxing jigsaw puzzle game with thousands of HD images, custom puzzles and daily challenges. By [Mikhail Smirnov](https://happyjigsaw.com)
+
+* [Bumble Maze](https://play.google.com/store/apps/details?id=com.midnightcommit.maze) - [Android](https://play.google.com/store/apps/details?id=com.midnightcommit.maze), [iOS](https://apps.apple.com/cz/app/bumble-maze/id6759364604) - A cozy puzzle adventure through procedurally generated garden mazes. By [LJ Digital](https://ljdigital.cz/)
+
+* [Pixelado](https://g4me.info/pixelado?utm_source=flame-awesome) - A Pixel art focused match-3 puzzle game for Android and iOS. By [CherryBit Studios](https://cherrybit.studio/)
 
 #### Role Playing
 
@@ -299,12 +303,12 @@
 
 ## Non-English Content
 
-* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,301 | 🐛 0 | 📅 2026-02-18
-* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,301 | 🐛 0 | 📅 2026-02-18
+* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,312 | 🐛 0 | 📅 2026-02-26
+* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,312 | 🐛 0 | 📅 2026-02-26
 
 ## Contributing
 
-[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,301 | 🐛 0 | 📅 2026-02-18
+[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,312 | 🐛 0 | 📅 2026-02-26
 
 <!-- Add ref links here -->
 
