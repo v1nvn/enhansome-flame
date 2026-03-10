@@ -98,7 +98,7 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,460 | 🐛 90 | 🌐 Dart | 📅 2026-03-08 - First-party plugins included in Flame's monorepo.
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,467 | 🐛 88 | 🌐 Dart | 📅 2026-03-08 - First-party plugins included in Flame's monorepo.
 * [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,432 | 🐛 8 | 🌐 Dart | 📅 2026-02-07 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 52 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
@@ -112,7 +112,7 @@
 <!--lint ignore double-link-->
 
 * [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) ⭐ 262 | 🐛 0 | 🌐 Dart | 📅 2020-07-10 - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
-* [New Super Jumper](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) ⭐ 174 | 🐛 2 | 🌐 Dart | 📅 2025-02-22 - A doodle jump clone made with Flame and Forge2D. By [Yayocode][2].
+* [New Super Jumper](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) ⭐ 175 | 🐛 2 | 🌐 Dart | 📅 2025-02-22 - A doodle jump clone made with Flame and Forge2D. By [Yayocode][2].
 * [Spacescape](https://github.com/ufrshubham/spacescape) ⭐ 135 | 🐛 1 | 🌐 Dart | 📅 2025-10-12 - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage][1].
 * [Snaake!](https://github.com/lucasnlm/snaake-flutter) ⭐ 82 | 🐛 1 | 🌐 Dart | 📅 2020-10-10 - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
 * [Bob Box](https://github.com/fireslime/bounce_box) ⭐ 43 | 🐛 0 | 🌐 Dart | 📅 2020-02-04 - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
@@ -143,7 +143,7 @@
 
 #### RPG
 
-* [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) ⭐ 456 | 🐛 1 | 🌐 Dart | 📅 2025-01-12 - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+* [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) ⭐ 457 | 🐛 1 | 🌐 Dart | 📅 2025-01-12 - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
 ### App Releases
 
@@ -303,12 +303,12 @@
 
 ## Non-English Content
 
-* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,312 | 🐛 0 | 📅 2026-02-26
-* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,312 | 🐛 0 | 📅 2026-02-26
+* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,314 | 🐛 0 | 📅 2026-02-26
+* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,314 | 🐛 0 | 📅 2026-02-26
 
 ## Contributing
 
-[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,312 | 🐛 0 | 📅 2026-02-26
+[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,314 | 🐛 0 | 📅 2026-02-26
 
 <!-- Add ref links here -->
 
