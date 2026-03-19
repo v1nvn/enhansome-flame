@@ -98,7 +98,7 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,477 | 🐛 91 | 🌐 Dart | 📅 2026-03-18 - First-party plugins included in Flame's monorepo.
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,479 | 🐛 87 | 🌐 Dart | 📅 2026-03-18 - First-party plugins included in Flame's monorepo.
 * [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,437 | 🐛 8 | 🌐 Dart | 📅 2026-02-07 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 52 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
@@ -137,13 +137,13 @@
 
 #### Platformer
 
-* [Flutters](https://github.com/ecklf/flutters) ⭐ 241 | 🐛 0 | 🌐 Dart | 📅 2022-03-11 - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
+* [Flutters](https://github.com/ecklf/flutters) ⭐ 242 | 🐛 0 | 🌐 Dart | 📅 2022-03-11 - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
 
 * [Simple Platformer](https://github.com/ufrshubham/flame_simple_platformer) ⭐ 64 | 🐛 0 | 🌐 Dart | 📅 2025-11-21 - A 2D platformer made using Flame engine. By [DevKage][1].
 
 #### RPG
 
-* [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) ⭐ 459 | 🐛 1 | 🌐 Dart | 📅 2025-01-12 - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+* [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) ⭐ 460 | 🐛 1 | 🌐 Dart | 📅 2025-01-12 - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
 ### App Releases
 
@@ -303,12 +303,12 @@
 
 ## Non-English Content
 
-* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,322 | 🐛 0 | 📅 2026-02-26
-* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,322 | 🐛 0 | 📅 2026-02-26
+* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,324 | 🐛 0 | 📅 2026-02-26
+* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,324 | 🐛 0 | 📅 2026-02-26
 
 ## Contributing
 
-[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,322 | 🐛 0 | 📅 2026-02-26
+[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,324 | 🐛 0 | 📅 2026-02-26
 
 <!-- Add ref links here -->
 
