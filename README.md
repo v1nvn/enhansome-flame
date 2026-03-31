@@ -98,7 +98,7 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,500 | 🐛 90 | 🌐 Dart | 📅 2026-03-26 - First-party plugins included in Flame's monorepo.
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,502 | 🐛 87 | 🌐 Dart | 📅 2026-03-30 - First-party plugins included in Flame's monorepo.
 * [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,444 | 🐛 8 | 🌐 Dart | 📅 2026-02-07 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 53 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
@@ -143,7 +143,7 @@
 
 #### RPG
 
-* [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) ⭐ 460 | 🐛 1 | 🌐 Dart | 📅 2025-01-12 - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+* [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) ⭐ 461 | 🐛 1 | 🌐 Dart | 📅 2025-01-12 - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
 ### App Releases
 
