@@ -18,7 +18,7 @@
             "last_commit": "2026-05-10T18:27:40Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10571
+            "stars": 10572
           }
         },
         {
@@ -86,7 +86,7 @@
             "last_commit": "2025-03-16T15:35:00Z",
             "owner": "lucasnlm",
             "repo": "antimine-flutter",
-            "stars": 18
+            "stars": 19
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2025-11-21T15:32:54Z",
             "owner": "ufrshubham",
             "repo": "flame_simple_platformer",
-            "stars": 65
+            "stars": 66
           }
         }
       ],
@@ -330,7 +330,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-11T05:51:06.412Z",
+    "last_updated": "2026-05-12T05:31:39.094Z",
     "original_repository": "flame-engine/awesome-flame",
     "source_repository": "v1nvn/enhansome-flame",
     "source_repository_description": null,

@@ -98,7 +98,7 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,571 | 🐛 85 | 🌐 Dart | 📅 2026-05-10 - First-party plugins included in Flame's monorepo.
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,572 | 🐛 85 | 🌐 Dart | 📅 2026-05-10 - First-party plugins included in Flame's monorepo.
 * [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,452 | 🐛 7 | 🌐 Dart | 📅 2026-05-08 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 53 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
@@ -118,7 +118,7 @@
 * [Bob Box](https://github.com/fireslime/bounce_box) ⭐ 43 | 🐛 0 | 🌐 Dart | 📅 2020-02-04 - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
 * [Square Shooter](https://github.com/namzug16/squareshooter_flame) ⭐ 38 | 🐛 1 | 🌐 Dart | 📅 2025-07-08 - A simple 2D top-down shooter for the web. Play solo vs AI or sit back and let the AI battle its own. By [Namzug](https://namzug.dev/).
 * [Ant Squash](https://github.com/sourabhgupta811/Ant-Squash) ⭐ 24 | 🐛 0 | 🌐 Dart | 📅 2024-02-16 - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
-* [Antimine - Minesweeper](https://github.com/lucasnlm/antimine-flutter) ⭐ 18 | 🐛 4 | 🌐 Dart | 📅 2025-03-16 - Antimine is a minesweeper-like puzzle game. The objective is to flag the spaces with mines to make the field a safer place without exploding any of them. Get it on [Google Play](https://play.google.com/store/apps/details?id=com.logical.minato). By [lucasnlm](https://github.com/lucasnlm).
+* [Antimine - Minesweeper](https://github.com/lucasnlm/antimine-flutter) ⭐ 19 | 🐛 4 | 🌐 Dart | 📅 2025-03-16 - Antimine is a minesweeper-like puzzle game. The objective is to flag the spaces with mines to make the field a safer place without exploding any of them. Get it on [Google Play](https://play.google.com/store/apps/details?id=com.logical.minato). By [lucasnlm](https://github.com/lucasnlm).
 * [Color Mixer](https://github.com/androideen/color_mixer_flame) ⭐ 15 | 🐛 0 | 🌐 Dart | 📅 2021-04-09 - A color mixer game built with Flame 1.0.0-rc8. Tap 2 colors to mix them and help player pass obstacles.
 * [Sober Driver](https://github.com/maurovanetti/guidi-tu) ⭐ 8 | 🐛 0 | 🌐 Dart | 📅 2025-08-05 - An app with 10 mini games to designate a sober driver for a night out. Get it on [Google Play](https://play.google.com/store/apps/details?id=net.coopalice.guiditu), [App Store](https://apps.apple.com/it/app/guidi-tu/id6476491805). By [Mauro Vanetti](https://maurovanetti.info/).
 * [Flappy Dash](https://github.com/RutvikPanchal246/FlappyDash) ⭐ 6 | 🐛 0 | 🌐 Dart | 📅 2024-09-15  - Gives classic flappy bird game play experience. Get it on [Play Store](https://play.google.com/store/apps/details?id=games.pocket.flappydash.flappy_dash). By [Rutvik Panchal](https://twitter.com/rutvikpanchal_x)
@@ -139,7 +139,7 @@
 
 * [Flutters](https://github.com/ecklf/flutters) ⭐ 242 | 🐛 0 | 🌐 Dart | 📅 2022-03-11 - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
 
-* [Simple Platformer](https://github.com/ufrshubham/flame_simple_platformer) ⭐ 65 | 🐛 0 | 🌐 Dart | 📅 2025-11-21 - A 2D platformer made using Flame engine. By [DevKage][1].
+* [Simple Platformer](https://github.com/ufrshubham/flame_simple_platformer) ⭐ 66 | 🐛 0 | 🌐 Dart | 📅 2025-11-21 - A 2D platformer made using Flame engine. By [DevKage][1].
 
 #### RPG
 
