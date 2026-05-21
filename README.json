@@ -15,10 +15,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-05-18T14:48:45Z",
+            "last_commit": "2026-05-20T08:53:08Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10584
+            "stars": 10583
           }
         },
         {
@@ -330,7 +330,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-20T05:58:15.776Z",
+    "last_updated": "2026-05-21T06:01:56.731Z",
     "original_repository": "flame-engine/awesome-flame",
     "source_repository": "v1nvn/enhansome-flame",
     "source_repository_description": null,
