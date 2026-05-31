@@ -82,7 +82,7 @@
 
 * [Killing gnats with Flutter and Flame](https://medium.com/flutter-community/killing-gnats-with-flutter-and-flame-77fa9224ccaa) - Build your first game with ads and i18n. By [Bo Hellgren](https://medium.com/@bo.hellgren)
 
-* [Flutter Web and Flame](https://github.com/AseemWangoo/experiments_with_web) ⭐ 139 | 🐛 1 | 🌐 Dart | 📅 2021-07-10 - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
+* [Flutter Web and Flame](https://github.com/AseemWangoo/experiments_with_web) ⭐ 138 | 🐛 1 | 🌐 Dart | 📅 2021-07-10 - Hands on with Flame for web. By [Aseem Wangoo](https://flatteredwithflutter.com/how-to-create-game-in-flutter-web-using-flame/)
 
 * [Simple Platformer - Flame Game Development Series](https://youtube.com/playlist?list=PLiZZKL9HLmWPyd808sda2ydG-dhexNONV) - 2D platformer without using Forge2d. By [DevKage][1].
 
@@ -98,7 +98,7 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,596 | 🐛 83 | 🌐 Dart | 📅 2026-05-24 - First-party plugins included in Flame's monorepo.
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,597 | 🐛 83 | 🌐 Dart | 📅 2026-05-24 - First-party plugins included in Flame's monorepo.
 * [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,455 | 🐛 7 | 🌐 Dart | 📅 2026-05-26 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 53 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
@@ -303,12 +303,12 @@
 
 ## Non-English Content
 
-* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,350 | 🐛 0 | 📅 2026-05-16
-* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,350 | 🐛 0 | 📅 2026-05-16
+* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,351 | 🐛 0 | 📅 2026-05-16
+* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,351 | 🐛 0 | 📅 2026-05-16
 
 ## Contributing
 
-[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,350 | 🐛 0 | 📅 2026-05-16
+[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,351 | 🐛 0 | 📅 2026-05-16
 
 <!-- Add ref links here -->
 
