@@ -98,7 +98,7 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,605 | 🐛 83 | 🌐 Dart | 📅 2026-05-24 - First-party plugins included in Flame's monorepo.
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,608 | 🐛 83 | 🌐 Dart | 📅 2026-05-24 - First-party plugins included in Flame's monorepo.
 * [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,456 | 🐛 8 | 🌐 Dart | 📅 2026-06-01 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 53 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
@@ -204,7 +204,7 @@
 
 * TTG - Through The Galaxies - [Android](https://play.google.com/store/apps/details?id=dev.app2pack.ttg), [iOS](https://apps.apple.com/app/ttg-through-the-galaxy/id6444870791?platform=iphone) - Control the rocket to go through the planets to gain higher and higher score. By [imaNNeo](https://github.com/imaNNeo)
 
-* BBB - Birds, Beasts, Baddies - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.balloons) - Four furry and feathery friends jump for joy. Avoid enemies, collect mushrooms, jump as high as you can. By [Coconut Island Apps](https://coconutisland.xyz/)
+* BBB - Birds, Beasts, Baddies - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.balloons) - Four furry and feathery friends jump for joy. Avoid enemies, collect mushrooms, jump as high as you can. By [Coconut Island Apps][4]
 
 * Jade Rapids - [Android](https://play.google.com/store/apps/details?id=lalonde.jadepug.jade_rapids_game) - Swim with your pug up Jade Rapids collecting treats and dodging obstacles. By [Philip Lalonde](https://github.com/lalondeph)
 
@@ -289,6 +289,10 @@
 
 * Bubble Panic! - [Android](https://play.google.com/store/apps/details?id=jp.co.gohko.bubble_panic), [iOS](https://apps.apple.com/us/app/bubble-panic-tower-defense/id6584514075) - A casual tower defense game that offers long-lasting playability with automatic stage generation. By [Gohko Engineering G.K.](https://bp.gohko.co.jp/)
 
+* Stellar Bastion - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.stellar_bastion), [iOS](https://apps.apple.com/us/app/stellar-bastion/id6761073618), [Web](https://www.crazygames.com/game/stellar-bastion) - A 2D pixel-art tower defense game. Combo your towers together to defeat the onslaught! By [Coconut Island Apps][4]
+
+* Defend Your Flame - [Android](https://play.google.com/store/apps/details?id=com.coconutisland.defend_your_flame), [iOS](https://apps.apple.com/us/app/defend-your-flame/id6763261764) - A 2D pixel-art base-defense game. Swipe your enemies away and into each other, upgrade your base, Defend Your Flame! By [Coconut Island Apps][4]
+
 #### Roguelike
 
 * Geometry Survival Beta - [Android](https://play.google.com/store/apps/details?id=com.bugcatt.game.geometrysurvival) - An roguelike game to survival and upgrade weapons to destroy powerful enemies. By [HarrisonQI](https://www.bugcatt.com/)
@@ -303,12 +307,12 @@
 
 ## Non-English Content
 
-* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,352 | 🐛 0 | 📅 2026-05-16
-* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,352 | 🐛 0 | 📅 2026-05-16
+* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,354 | 🐛 0 | 📅 2026-06-03
+* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,354 | 🐛 0 | 📅 2026-06-03
 
 ## Contributing
 
-[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,352 | 🐛 0 | 📅 2026-05-16
+[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,354 | 🐛 0 | 📅 2026-06-03
 
 <!-- Add ref links here -->
 
@@ -317,3 +321,5 @@
 [2]: https://www.yayocode.com "YayoCode"
 
 [3]: https://www.dong.digital "Dong Digital"
+
+[4]: https://www.coconutisland.app "Coconut Island Apps"
