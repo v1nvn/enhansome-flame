@@ -18,7 +18,7 @@
             "last_commit": "2026-05-24T09:54:14Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10608
+            "stars": 10609
           }
         },
         {
@@ -28,7 +28,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-06-01T03:14:34Z",
+            "last_commit": "2026-06-06T02:43:58Z",
             "owner": "RafaelBarbosatec",
             "repo": "bonfire",
             "stars": 1457
@@ -304,7 +304,7 @@
             "last_commit": "2026-06-03T17:42:08Z",
             "owner": "flame-engine",
             "repo": "awesome-flame",
-            "stars": 1354
+            "stars": 1356
           }
         },
         {
@@ -317,7 +317,7 @@
             "last_commit": "2026-06-03T17:42:08Z",
             "owner": "flame-engine",
             "repo": "awesome-flame",
-            "stars": 1354
+            "stars": 1356
           }
         }
       ],
@@ -330,7 +330,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-05T06:13:05.296Z",
+    "last_updated": "2026-06-06T05:46:45.449Z",
     "original_repository": "flame-engine/awesome-flame",
     "source_repository": "v1nvn/enhansome-flame",
     "source_repository_description": null,
