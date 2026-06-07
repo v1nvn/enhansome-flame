@@ -18,7 +18,7 @@
             "last_commit": "2026-05-24T09:54:14Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10609
+            "stars": 10622
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2022-03-11T23:12:15Z",
             "owner": "ecklf",
             "repo": "flutters",
-            "stars": 242
+            "stars": 241
           }
         },
         {
@@ -330,7 +330,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-06T05:46:45.449Z",
+    "last_updated": "2026-06-07T06:14:17.113Z",
     "original_repository": "flame-engine/awesome-flame",
     "source_repository": "v1nvn/enhansome-flame",
     "source_repository_description": null,

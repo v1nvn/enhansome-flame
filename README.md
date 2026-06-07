@@ -98,7 +98,7 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,609 | 🐛 84 | 🌐 Dart | 📅 2026-05-24 - First-party plugins included in Flame's monorepo.
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,622 | 🐛 84 | 🌐 Dart | 📅 2026-05-24 - First-party plugins included in Flame's monorepo.
 * [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,457 | 🐛 8 | 🌐 Dart | 📅 2026-06-06 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 53 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
@@ -137,7 +137,7 @@
 
 #### Platformer
 
-* [Flutters](https://github.com/ecklf/flutters) ⭐ 242 | 🐛 0 | 🌐 Dart | 📅 2022-03-11 - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
+* [Flutters](https://github.com/ecklf/flutters) ⭐ 241 | 🐛 0 | 🌐 Dart | 📅 2022-03-11 - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
 
 * [Simple Platformer](https://github.com/ufrshubham/flame_simple_platformer) ⭐ 65 | 🐛 0 | 🌐 Dart | 📅 2025-11-21 - A 2D platformer made using Flame engine. By [DevKage][1].
 
