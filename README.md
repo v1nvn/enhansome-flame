@@ -98,8 +98,8 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,622 | 🐛 84 | 🌐 Dart | 📅 2026-05-24 - First-party plugins included in Flame's monorepo.
-* [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,457 | 🐛 8 | 🌐 Dart | 📅 2026-06-06 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,628 | 🐛 84 | 🌐 Dart | 📅 2026-05-24 - First-party plugins included in Flame's monorepo.
+* [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,456 | 🐛 8 | 🌐 Dart | 📅 2026-06-06 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 53 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
 
@@ -143,7 +143,7 @@
 
 #### RPG
 
-* [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) ⭐ 464 | 🐛 1 | 🌐 Dart | 📅 2025-01-12 - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+* [Darkness Dungeon](https://github.com/RafaelBarbosatec/darkness_dungeon) ⭐ 463 | 🐛 1 | 🌐 Dart | 📅 2025-01-12 - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
 ### App Releases
 
@@ -307,12 +307,12 @@
 
 ## Non-English Content
 
-* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,356 | 🐛 0 | 📅 2026-06-03
-* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,356 | 🐛 0 | 📅 2026-06-03
+* [Mandarin Chinese (中文)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ZH.md) ⭐ 1,357 | 🐛 0 | 📅 2026-06-03
+* [Spanish (Español)](https://github.com/flame-engine/awesome-flame/blob/main/CONTENT_ES.md) ⭐ 1,357 | 🐛 0 | 📅 2026-06-03
 
 ## Contributing
 
-[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,356 | 🐛 0 | 📅 2026-06-03
+[Please read the contribution guidelines](https://github.com/flame-engine/awesome-flame/blob/main/CONTRIBUTING.md) ⭐ 1,357 | 🐛 0 | 📅 2026-06-03
 
 <!-- Add ref links here -->
 
