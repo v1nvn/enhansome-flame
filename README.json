@@ -18,7 +18,7 @@
             "last_commit": "2026-06-10T13:08:05Z",
             "owner": "flame-engine",
             "repo": "flame",
-            "stars": 10633
+            "stars": 10634
           }
         },
         {
@@ -164,7 +164,7 @@
             "last_commit": "2025-10-12T12:53:40Z",
             "owner": "ufrshubham",
             "repo": "spacescape",
-            "stars": 137
+            "stars": 134
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2025-11-21T15:32:54Z",
             "owner": "ufrshubham",
             "repo": "flame_simple_platformer",
-            "stars": 65
+            "stars": 66
           }
         }
       ],
@@ -330,7 +330,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-12T06:24:32.870Z",
+    "last_updated": "2026-06-13T06:07:59.545Z",
     "original_repository": "flame-engine/awesome-flame",
     "source_repository": "v1nvn/enhansome-flame",
     "source_repository_description": null,

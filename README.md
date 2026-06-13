@@ -98,7 +98,7 @@
 
 ## Plugins & Libraries
 
-* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,633 | 🐛 83 | 🌐 Dart | 📅 2026-06-10 - First-party plugins included in Flame's monorepo.
+* [First-Party Plugins](https://github.com/flame-engine/flame/tree/main/packages) ⭐ 10,634 | 🐛 83 | 🌐 Dart | 📅 2026-06-10 - First-party plugins included in Flame's monorepo.
 * [bonfire](https://github.com/RafaelBarbosatec/bonfire) ⭐ 1,458 | 🐛 8 | 🌐 Dart | 📅 2026-06-09 - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 * [leap](https://github.com/kurtome/leap) ⭐ 53 | 🐛 6 | 🌐 Dart | 📅 2025-05-05 - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 * [flame\_texturepacker](https://github.com/Brixto/flame_texturepacker) ⭐ 24 | 🐛 2 | 🌐 Dart | 📅 2024-01-21 - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
@@ -113,7 +113,7 @@
 
 * [Ghost Rigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) ⭐ 265 | 🐛 0 | 🌐 Dart | 📅 2020-07-10 - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
 * [New Super Jumper](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) ⭐ 176 | 🐛 2 | 🌐 Dart | 📅 2025-02-22 - A doodle jump clone made with Flame and Forge2D. By [Yayocode][2].
-* [Spacescape](https://github.com/ufrshubham/spacescape) ⭐ 137 | 🐛 1 | 🌐 Dart | 📅 2025-10-12 - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage][1].
+* [Spacescape](https://github.com/ufrshubham/spacescape) ⭐ 134 | 🐛 1 | 🌐 Dart | 📅 2025-10-12 - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage][1].
 * [Snaake!](https://github.com/lucasnlm/snaake-flutter) ⭐ 82 | 🐛 1 | 🌐 Dart | 📅 2020-10-10 - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
 * [Bob Box](https://github.com/fireslime/bounce_box) ⭐ 43 | 🐛 0 | 🌐 Dart | 📅 2020-02-04 - A simple casual game that you can play with one finger. Tap to stop, avoid obstacles! By [FireSlime](https://fireslime.xyz)
 * [Square Shooter](https://github.com/namzug16/squareshooter_flame) ⭐ 38 | 🐛 1 | 🌐 Dart | 📅 2025-07-08 - A simple 2D top-down shooter for the web. Play solo vs AI or sit back and let the AI battle its own. By [Namzug](https://namzug.dev/).
@@ -139,7 +139,7 @@
 
 * [Flutters](https://github.com/ecklf/flutters) ⭐ 241 | 🐛 0 | 🌐 Dart | 📅 2022-03-11 - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
 
-* [Simple Platformer](https://github.com/ufrshubham/flame_simple_platformer) ⭐ 65 | 🐛 0 | 🌐 Dart | 📅 2025-11-21 - A 2D platformer made using Flame engine. By [DevKage][1].
+* [Simple Platformer](https://github.com/ufrshubham/flame_simple_platformer) ⭐ 66 | 🐛 0 | 🌐 Dart | 📅 2025-11-21 - A 2D platformer made using Flame engine. By [DevKage][1].
 
 #### RPG
 
